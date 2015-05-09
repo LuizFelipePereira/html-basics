@@ -1,0 +1,33 @@
+http://trello.com/inatelbr // trello
+https://c9.io/luizfelipepereira
+https://github.com/LuizFelipePereira/html-basics
+https://trello.com/inatelbr
+
+try.github.io // aprender o github
+Validate HTML - validar o HTM
+brackets.io - ferramenta desenvolvimento web // emmet-plugin
+emmet.io // atalhos para html
+
+github - rede social para desenvolvedores
+git - controlador de versão
+Ctrl + shift + a = colocar tag em uma palavra
+Ctrl + shift + d = duplicar a linha
+ctrl + e = mostra o css
+ctrl + b = alterar varios nomes para um mesmo
+shift + alt = multiplos cursores
+
+git remote add origin http://github.com/LuizFelipePereira/html-basics.git // abrir o repositorio
+git init
+git status//status verificar se o arquivo foi enviado
+git add . //adicionar o codigo no repositorio
+git commit -m "Descrição da alteração"
+git push // atualizar o codigo no site
+
+
+
+
+ul>li{Item-$}*10 // multiplas linhas
+
+
+
+
